@@ -1,8 +1,4 @@
-Sure! Here's a list of key sections and content you can add to your **README.md** file to make it more comprehensive and helpful for anyone using or contributing to your project.
-
----
-
-### **README.md Example**
+### **Dream Streamer**
 
 ```markdown
 # Music Player Application 🎶
@@ -18,33 +14,6 @@ This is a PHP-based music player web application with user authentication and ro
 - File uploads for audio and cover images
 - Spotify-inspired black theme with green accents
 - Built using **PHP**, **MySQL**, **HTML**, **CSS**, and **Tailwind CSS**
-
-## Project Structure 📁
-
-```
-/music_player_app/
-├── assets/                  # Stores static assets like images and audio files
-│   ├── images/              # Stores song cover images
-│   └── audio/               # Stores audio files
-├── css/                     # Contains CSS styles
-│   └── style.css            # Main CSS file for custom styling
-├── includes/                # Contains reusable PHP includes like database connection
-│   ├── db.php               # MySQL database connection script
-│   ├── header.php           # Common header content for all pages
-│   └── footer.php           # Common footer content for all pages
-├── pages/                   # Main application logic for different pages
-│   ├── login.php            # User login page
-│   ├── register.php         # User registration page
-│   ├── dashboard.php        # Admin dashboard page
-│   ├── user_dashboard.php   # User dashboard page
-│   ├── add_song.php         # Admin-only: Add a new song
-│   ├── edit_song.php        # Admin-only: Edit a song
-│   ├── delete_song.php      # Admin-only: Delete a song
-│   └── view_songs.php       # View list of songs with search functionality
-├── index.php                # Entry point to the application
-├── logout.php               # Logs out the user
-└── README.md                # Project documentation (this file)
-```
 
 ## Setup Instructions 🛠️
 
