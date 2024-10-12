@@ -123,20 +123,3 @@ error_reporting(E_ALL);
 
 ## License 📜
 This project is licensed under the MIT License.
-
-## Contact & Contribution 🤝
-Feel free to contribute to this project by forking the repository, making enhancements, or reporting bugs. For any questions, contact me at [your.email@example.com].
-```
-
----
-
-### **Explanation of Sections:**
-1. **Features**: A list of what the application does.
-2. **Project Structure**: Describes the directory layout and important files.
-3. **Setup Instructions**: Step-by-step guide on how to install and run the project locally.
-4. **Usage Instructions**: Explains how to use the app for both admins and regular users.
-5. **Future Improvements**: A section for enhancements and features you plan to add in the future.
-6. **Troubleshooting**: Common issues and how to resolve them.
-7. **License & Contributions**: Information on licensing and how others can contribute.
-
-Feel free to customize the **README** based on your project’s actual features and requirements. Let me know if you'd like further modifications or additional sections! 🎶👾
